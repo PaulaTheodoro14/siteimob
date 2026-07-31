@@ -12,6 +12,7 @@ export default function Header() {
           <Link href="#servicos" className="hover:text-foreground">Serviços</Link>
           <Link href="#resultados" className="hover:text-foreground">Resultados</Link>
           <Link href="#como-funciona" className="hover:text-foreground">Como funciona</Link>
+          <Link href="#planos" className="hover:text-foreground">Planos</Link>
           <Link href="#depoimentos" className="hover:text-foreground">Depoimentos</Link>
         </nav>
         <a
